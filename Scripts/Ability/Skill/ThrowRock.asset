@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cee0c23155ad564cbf6e2be65e74105, type: 3}
+  m_Name: ThrowRock
+  m_EditorClassIdentifier: 
+  abilityType: 1
+  id: 0
+  name: Rock
+  abilityPrefab: {fileID: 8614343909586601721, guid: e2ee91245c1a9234bb63205d42ea49f7,
+    type: 3}
+  sprite: {fileID: 21300000, guid: 5ea1787a8ea00744b9d514515e43a42d, type: 3}

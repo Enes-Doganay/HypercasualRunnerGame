@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e139cbe87872ff458a33a141a087bfb, type: 3}
+  m_Name: Character
+  m_EditorClassIdentifier: 
+  moveSpeed: 21
+  dodgeSpeed: 10
+  jumpPower: 7
+  level: 4
+  gold: 10
